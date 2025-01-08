@@ -88,7 +88,7 @@ Vectors are everywhere!
 
 
 
-scalars  & Vectors -- https://www.youtube.com/watch?v=ml4NSzCQobk
+scalars  & Vectors -- https://www.youtube.com/watch?v=ml4NSzCQobk ,
+[ https://www.youtube.com/watch?v=k7RM-ot2NWY&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2)
 
 
-### **Tensors
